@@ -34,7 +34,7 @@ I love solving problems, building useful projects, and learning new technologies
 **AI/ML & Data:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+
 
 **Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -79,9 +79,10 @@ I love solving problems, building useful projects, and learning new technologies
 ---
 
 ## 📫 Contact
-- 📍 Andhra Pradesh, India  
-- 🔗 [GitHub](https://github.com/malleswarikurangi)  
-
+- 📍 Cumbum, Prakasam Dist — 523333  
+- 📞 +91 63005 49500  
+- ✉️ malleswarikurangi2004@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/malleswari-kurangi/
 <p align="left">
   <a href="https://github.com/malleswarikurangi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
