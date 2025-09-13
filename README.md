@@ -1,7 +1,4 @@
-<!-- ===================== Profile Banner ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/malleswarikurangi/malleswarikurangi/main/banner.png" alt="Malleswari Kurangi — banner" width="100%" />
-</p>
+
 
 # 👋 Hey, I'm Malleswari Kurangi
 **Curious & hardworking developer** passionate about **Web Development · AI/ML · Data Analytics**.  
